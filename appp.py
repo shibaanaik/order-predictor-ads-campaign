@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 # Load the saved model
-model = joblib.load('order_predictor.pkl')
+model = joblib.load('order_predictor.joblib')
 
 st.title("📦 Ad Campaign Order Predictor")
 
