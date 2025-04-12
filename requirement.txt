@@ -1,7 +1,6 @@
-﻿matplotlib
-seaborn
 streamlit
 pandas
-numpy
-scikit-learn
+seaborn
 joblib
+scikit-learn
+
